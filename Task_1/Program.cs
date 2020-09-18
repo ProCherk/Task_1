@@ -8,6 +8,7 @@ namespace Task_1
         {
             /*Для виведення літери і, потрібно змінити кодування на Unocode */
             Console.OutputEncoding = System.Text.Encoding.Unicode;
+
             Console.WriteLine("Привіт, ДонНУ!");
         }
     }
